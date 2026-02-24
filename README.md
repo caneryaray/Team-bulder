@@ -1,4 +1,10 @@
 <img width="747" height="913" alt="image" src="https://github.com/user-attachments/assets/c62331ee-6251-4c0b-9c15-2a6d00397d1c" />
+
+
+
+
+
+
 # Employee Management Application (React)
 
 This project is a simple Employee Management Application built with React. It allows users to add new employees through a controlled form and dynamically displays the employee list on the screen.
@@ -60,3 +66,4 @@ This project demonstrates the following React fundamentals:
 ---
 
 ## 📂 Project Structure
+
